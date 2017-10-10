@@ -1,7 +1,6 @@
 package chs
 
 import scala.scalajs.js
-import scala.scalajs.js.annotation.ScalaJSDefined
 
 @js.native
 trait JRSClient extends js.Object {
